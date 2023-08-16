@@ -2,7 +2,7 @@
 - 👀 I’m interested in making app/games
 - 🌱 I’m currently learning app/games
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me terukanatrk@gmail.com
+- 📫 How to reach me angvincent2018@gmail.com
 
 <!---
 Terukana/Terukana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
