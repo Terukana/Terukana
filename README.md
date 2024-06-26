@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Terukana
 - 👀 I’m interested in making app/games
 - 🌱 I’m currently learning app/games
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me angvincent2018@gmail.com
 
 <!---
